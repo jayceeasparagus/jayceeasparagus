@@ -1,3 +1,1 @@
 - 👋 Hi, I’m @jayceeasparagus
-- 👀 I’m interested in computer theories, efficiency, data science, and machine learning
-- 🌱 I’m currently learning python
