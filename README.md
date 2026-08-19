@@ -7,4 +7,3 @@ software.
 ## Contact
 
 - Email: [jspurgiasz@gmail.com](mailto:jspurgiasz@gmail.com)
-```
